@@ -44,6 +44,7 @@ library(emmeans)
 # plotting
 library(RColorBrewer)
 library(gridExtra)
+# the following scripts are available at: https://github.com/uasolo/UTI-GAM-FPCA
 source("polar_utils.R")
 # artificial UTI data generator
 source("parab_tongue.R")
